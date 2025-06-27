@@ -141,7 +141,7 @@ The system automatically detects and uses existing document collections. You can
 ├── run_app.py                  # Application launcher
 ├── judge_demo.py               # Demo interface for presentations
 ├── run_judge_demo.py           # Demo launcher
-└── JUDGE_DEMO_README.md        # Demo-specific documentation
+
 ```
 
 ![](assets/2025-06-17-20-32-43.png)

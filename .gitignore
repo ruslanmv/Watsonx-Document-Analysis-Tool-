@@ -1,0 +1,11 @@
+# Environments
+.env
+apikey.json
+
+/.venv
+ 
+*.pid
+*.log
+/chroma_db
+/__pycache__
+/agent/__pycache__
